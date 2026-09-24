@@ -1,0 +1,15 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+
+# Environment variables (Crucial for database passwords later)
+.env
+.env.local
+
+# Logs
+*.log
+logs/
